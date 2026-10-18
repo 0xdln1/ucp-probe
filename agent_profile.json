@@ -1,1 +1,1 @@
-{"ucp":{"version":"2026-08-25","services":{"dev.ucp.shopping":[{"version":"2026-08-25","transport":"mcp","endpoint":"https://example.com/mcp"}]}},"name":"recon-probe","description":"security testing agent profile"}
+{"ucp":{"version":"2026-08-25","services":{},"payment_handlers":{}},"name":"recon-probe"}
